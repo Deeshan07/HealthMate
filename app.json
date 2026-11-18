@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "HealthMate",
+    "slug": "healthmate",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.healthmate.coursework"
+    },
+    "plugins": [
+      "expo-sqlite"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "91c3158c-76de-4a73-a606-fd7c6fd839d9"
+      }
+    }
+  }
+}

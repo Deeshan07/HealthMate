@@ -1,0 +1,5 @@
+{
+  "build": {
+    "coursework": {"android": {"buildType": "apk"}}
+  }
+}
